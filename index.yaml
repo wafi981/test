@@ -13,7 +13,7 @@ entries:
     sources:
     - https://github.com/WPO-Foundation/webpagetest
     urls:
-    - https://github.com/wafi981/test/blob/main/docs/webpagetest-agent-0.2.2.?raw=true
+    - https://github.com/wafi981/test/blob/main/docs/webpagetest-agent-0.2.2.tgz?raw=true
     version: 0.2.2
   webpagetest-server:
   - apiVersion: v1
