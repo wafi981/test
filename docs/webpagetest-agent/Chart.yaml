@@ -1,0 +1,10 @@
+apiVersion: v1
+appVersion: "2018-01-23"
+deprecated: true
+description: DEPRECATED A Helm chart for Kubernetes
+home: https://www.webpagetest.org/
+icon: https://www.webpagetest.org/images/logo_wpt.png
+name: webpagetest-agent
+sources:
+- https://github.com/WPO-Foundation/webpagetest
+version: 0.2.2
